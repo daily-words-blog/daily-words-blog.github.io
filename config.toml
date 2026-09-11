@@ -1,0 +1,7 @@
+baseURL = "https://daily-words-blog.github.io/"
+languageCode = "ja"
+title = "Daily Words Blog"
+theme = "ananke"
+
+[params]
+  description = "Daily word encyclopedia blog with AI-generated content"
